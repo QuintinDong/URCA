@@ -5,5 +5,5 @@ Methods: To address these issues, we propose an Uncertainty-based Region Clippin
 Results: Comprehensive experiments on the combination of two benchmarks ACDC and BraTS2019 show that our proposed model outperforms state-of-the-art methods in terms of Dice, HD95 and ASD. The results reach an average Dice score of 87.86% and a HD95 score of 4.214mm on ACDC dataset. For the brain tumor segmentation, the results reach an average Dice score of 84.79% and a HD score of 10.13mm.<br>
 Conclusions: Extensive experiments on two public medical image datasets including 2D and 3D modalities demonstrate the superiority of our model. <br>
 ## Architecture
-![Uploading image.png…]()
+![image](architecture.png)
 
